@@ -3,9 +3,9 @@
 
 
 
-#define MyAppName "RemoteScriptsDavid"
+#define MyAppName "RemoteScripts_David"
 #define SETUP_VERSION "2.0"
-#define MyAppPublisher "DP99662"
+#define AppPublisher "David Yair"
 #define NEW_LINE '#13#10'
 #define SHARE_NAME "RemoteScripts"
 
@@ -23,7 +23,7 @@ AppId={{2D5256BF-6991-448B-BC20-6EE2C2F77381}
 AppName={#MyAppName}
 AppVersion={#SETUP_VERSION}
 ;AppVerName={#MyAppName} {#MyAppVersion}
-AppPublisher={#MyAppPublisher}
+AppPublisher={#AppPublisher}
 DefaultDirName={#DEFAULT_INSTALLATION_DIR}
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
