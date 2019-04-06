@@ -213,7 +213,7 @@ begin
       Height := ScaleY(160);
       Enabled := False;
       TabOrder := 0;
-      ScrollBars := ssVertical;
+      ScrollBars := ssBoth;
       Font.Size := 10;
     end;
 	
@@ -386,7 +386,7 @@ begin
       Width := ScaleX(inputTextBoxWidth);
       Height := ScaleY(170);
       Enabled := True;
-			ScrollBars := ssVertical;
+	  ScrollBars := ssBoth;
       TabOrder := 0;
       Font.Size := 9;
     end;
