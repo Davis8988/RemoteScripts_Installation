@@ -1,0 +1,14 @@
+
+Access the scripts by the dir-path:
+  \\This_Computer_Name\RemoteScripts\Run
+
+There will be two directories:
+'Dynamic'  and  'Static'
+which contain the scripts that were defined in the installation.
+
+Make shortcuts for them if you like. 
+
+
+Enjoy...
+
+David DP99662

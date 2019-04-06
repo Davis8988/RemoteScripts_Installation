@@ -1,0 +1,11 @@
+This installation will deploy scripts framework for running remote commands on targets machines.
+
+This Installation Will:
+1. Deploy files and scripts to chosen installation dir.
+2. Share the chosen installation dir to everyone. Share Name = 'RemoteScripts'.
+3. Generate icons to desktop
+
+
+* - It is possible to run this setup multiple times to Generate\Configure more remote commands & target computer lists.
+* - Make sure not to install to an already shared path. For best use install to a new fresh directory that is not under any shared path, so it can be shared as a new shared directory.
+
